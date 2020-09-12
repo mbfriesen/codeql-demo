@@ -1,0 +1,1 @@
+I am using this repo to learn about GitHub's CodeQL
